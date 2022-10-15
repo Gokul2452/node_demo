@@ -1,0 +1,29 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+#tab{
+  width: 35%;
+  text-align: center;
+}
+tr{
+  height: 40px;
+}
+p{
+  margin-left: 70px;
+}
+.container{
+  margin-left: 410px;
+  
+}
+h1{
+  margin-left: 50px;
+}
+tr:hover{
+  background-color: rgb(83, 178, 223);
+  transition: 0.3s;
+}
